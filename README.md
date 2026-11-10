@@ -15,6 +15,10 @@ Muestra independiente preparada para la convocatoria «Descubre ShieldedScan –
 
 El diseño se basa en las funciones visibles de shieldedscan.xyz: explorador de transacciones, pools blindados, gráficos de actividad y sección Cross-Chain. Las barras de la tercera imagen son ilustrativas; no representan saldos actuales.
 
+## Diseño y archivos editables
+
+La revisión del 10 de noviembre utiliza ZH Black Blue (#06192f), ZH Slate Blue (#39516c), blanco y colores auxiliares de la [identidad visual de ZecHub](https://zechub.wiki/visual-identity). La tipografía es Montserrat, la familia secundaria indicada en esa guía; no se ha usado Bossa, la familia principal. Los SVG conservan el texto editable y llevan la fuente incorporada para facilitar su apertura. La licencia SIL Open Font License de Montserrat está en [Montserrat-OFL.txt](Montserrat-OFL.txt). No se incorporan logotipos oficiales.
+
 ## Referencias
 
 - https://shieldedscan.xyz/
@@ -27,6 +31,6 @@ El diseño se basa en las funciones visibles de shieldedscan.xyz: explorador de 
 
 ## Estado del encargo
 
-Material preparado para postular. No se ha presentado una solicitud ni se ha recibido una aprobación o pago. La recompensa publicada es 0.03 ZEC y el plazo indicado es el 22 de noviembre de 2026. Antes de solicitarla, iniciar sesión con GitHub, elegir el rol Hunter y registrar en el perfil una dirección unificada de Zcash que admita recepción blindada. La plataforma no necesita frase semilla ni clave privada.
+Solicitud presentada el 10 de noviembre de 2026, según la confirmación de la plataforma facilitada por el solicitante. Estado observado: pending / Under review. No hay asignación ni pago confirmados. La recompensa publicada es 0.03 ZEC y el plazo indicado es el 22 de noviembre de 2026.
 
 La postulación debe incluir un breve plan, plazo y un enlace pertinente. Después de la aprobación, los PNG y los SVG editables pueden entregarse por enlaces públicos (por ejemplo, en un repositorio del colaborador) según las instrucciones del equipo.

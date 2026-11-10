@@ -1,5 +1,7 @@
 # Borrador de postulación
 
+Estado: solicitud presentada el 10 de noviembre de 2026. Confirmación observada: pending / Under review. No volver a presentar sin comprobar la solicitud existente.
+
 **Bounty:** Descubre ShieldedScan – Explorador de Zcash
 
 Hola, me gustaría colaborar en esta campaña. Ya preparé una serie original de cuatro láminas educativas en español, en PNG (1200 × 1500 px), con los SVG editables. Explican qué muestra ShieldedScan, cómo leer los tipos de transacciones, cómo interpretar los pools y gráficos sin exponer pagos blindados, y cómo explorar los flujos entre cadenas.
@@ -18,8 +20,8 @@ Enlace a muestra pública: https://github.com/hudwqni1959/shieldedscan-es
 
 4/4 La sección Cross-Chain muestra entradas y salidas observables en protocolos de intercambio. Filtra por dirección y protocolo para entender los flujos públicos, sin atribuirlos a una persona. shieldedscan.xyz/cross-chain
 
-## Pendiente antes de postular
+## Seguimiento
 
-- Confirmar que la cuenta de ZEC Bounties tiene el rol Hunter y una dirección de pago guardada.
-- Verificar los PNG y los SVG en el repositorio público enlazado arriba.
-- Comprobar el estado del bounty y pulsar Apply. La postulación no equivale a asignación ni garantiza pago.
+- Esperar la decisión de asignación y atender los comentarios del equipo.
+- Si se asigna, presentar los enlaces de entrega mediante Submit work.
+- La postulación no equivale a asignación ni garantiza pago.
