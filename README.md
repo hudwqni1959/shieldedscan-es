@@ -4,6 +4,8 @@ Cuatro imágenes en español (1200 × 1500 px), con archivos SVG editables.
 
 [Descargar el paquete PNG + SVG](https://hudwqni1959.github.io/shieldedscan-es/shieldedscan_es_entrega.zip)
 
+El paquete incluye las cuatro imágenes PNG, los cuatro SVG editables, la vista previa, [textos propuestos para X](TEXTOS_X.md), este README y la licencia de Montserrat.
+
 ![Vista previa de las cuatro láminas educativas](vista_previa.png)
 
 Muestra independiente preparada para la convocatoria «Descubre ShieldedScan – Explorador de Zcash». No es material oficial de ShieldedScan ni de ZecHub.
