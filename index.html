@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <meta name="description" content="Serie educativa independiente en español sobre ShieldedScan y la privacidad en Zcash.">
+  <title>ShieldedScan · Serie educativa en español</title>
+  <style>
+    :root{font-family:Arial,Helvetica,sans-serif;color:#edf7f5;background:#081a20}
+    *{box-sizing:border-box}
+    body{margin:0;background:radial-gradient(circle at 95% 0,#173b3d,transparent 37%),#081a20;line-height:1.5}
+    a{color:#70eac1;text-decoration:none}a:hover{text-decoration:underline}a:focus-visible{outline:3px solid #70eac1;outline-offset:4px}
+    main{max-width:1230px;margin:auto;padding:44px 24px 80px}
+    .eyebrow{font-size:.82rem;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:#72eec2}
+    h1{font-size:clamp(2.2rem,6vw,4.5rem);letter-spacing:-.045em;line-height:1.05;margin:.35em 0}.lead{max-width:800px;font-size:1.16rem;color:#bcd2d1}
+    .notice{border:1px solid #356b64;background:#102d34;border-radius:18px;padding:16px 20px;max-width:900px;margin:28px 0 42px;color:#c9dedc}
+    .grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:28px}
+    article{background:#10282f;border:1px solid #33575e;border-radius:22px;overflow:hidden}
+    article img{width:100%;height:auto;display:block;background:#10282f}
+    article .copy{padding:22px 25px 27px}h2{margin:0 0 8px;font-size:1.3rem}p{margin:0 0 14px;color:#bdd0d0}
+    .links{display:flex;gap:18px;flex-wrap:wrap;font-weight:700}
+    footer{border-top:1px solid #35545b;margin-top:50px;padding-top:26px;color:#a6c0be}
+    @media(max-width:720px){main{padding:28px 16px 60px}.grid{grid-template-columns:1fr;gap:20px}}
+  </style>
+</head>
+<body>
+<main>
+  <div class="eyebrow">Muestra independiente · cuatro láminas</div>
+  <h1>Zcash, a simple vista</h1>
+  <p class="lead">Una serie visual en español sobre las funciones públicas de ShieldedScan: transacciones, pools blindados, gráficos y flujos entre cadenas.</p>
+  <div class="notice">Propuesta de diseño para una convocatoria de ZEC Bounties. Esta página no es oficial de ShieldedScan ni de ZecHub. La convocatoria todavía requiere solicitud, asignación y revisión; ninguna recompensa está garantizada.</div>
+  <section class="grid" aria-label="Cuatro láminas educativas">
+    <article>
+      <img src="01_portada.png" width="1200" height="1500" alt="Portada: Zcash a simple vista y tres áreas de ShieldedScan" loading="eager">
+      <div class="copy"><h2>01 · Explorar con contexto</h2><p>Qué es ShieldedScan y qué áreas públicas organiza.</p><div class="links"><a href="01_portada.png" download>PNG</a><a href="01_portada.svg" download>SVG editable</a></div></div>
+    </article>
+    <article>
+      <img src="02_transacciones.png" width="1200" height="1500" alt="Tres tipos de transacción: transparente, mixta y blindada" loading="lazy">
+      <div class="copy"><h2>02 · Leer transacciones</h2><p>Una explicación de la visibilidad de datos según el tipo de transacción.</p><div class="links"><a href="02_transacciones.png" download>PNG</a><a href="02_transacciones.svg" download>SVG editable</a></div></div>
+    </article>
+    <article>
+      <img src="03_pools.png" width="1200" height="1500" alt="Barras ilustrativas para cuatro pools de Zcash" loading="lazy">
+      <div class="copy"><h2>03 · Ver agregados</h2><p>Barras meramente ilustrativas: consulta las cifras actuales en la fuente.</p><div class="links"><a href="03_pools.png" download>PNG</a><a href="03_pools.svg" download>SVG editable</a></div></div>
+    </article>
+    <article>
+      <img src="04_flujos.png" width="1200" height="1500" alt="Diagrama de flujos observables entre Zcash y otras redes" loading="lazy">
+      <div class="copy"><h2>04 · Seguir flujos</h2><p>Cómo explorar transferencias observables entre cadenas.</p><div class="links"><a href="04_flujos.png" download>PNG</a><a href="04_flujos.svg" download>SVG editable</a></div></div>
+    </article>
+  </section>
+  <footer>Funciones verificadas en <a href="https://shieldedscan.xyz/" rel="noopener noreferrer">shieldedscan.xyz</a>, <a href="https://shieldedscan.xyz/txs" rel="noopener noreferrer">transacciones</a>, <a href="https://shieldedscan.xyz/shielded" rel="noopener noreferrer">pools</a>, <a href="https://shieldedscan.xyz/charts" rel="noopener noreferrer">gráficos</a> y <a href="https://shieldedscan.xyz/cross-chain" rel="noopener noreferrer">Cross-Chain</a>. Texto para la postulación: <a href="POSTULACION.md">POSTULACION.md</a>.</footer>
+</main>
+</body>
+</html>
